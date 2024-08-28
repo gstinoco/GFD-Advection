@@ -12,15 +12,15 @@ Examples of solving various problems in an irregular region can be found below.
 
 | Titicaca Lake Cloud of Points                                                                        |
 | :--------------------------------------------------------------------------------------------------: |
-| <img src="Data/Clouds/TIT.png">                                                                      |
+| <img src="Data/Clouds/CUA.png">                                                                      |
 |                                                                                                      |
 | Example 1                                                                                            |
-| <video src="https://github.com/user-attachments/assets/bd93859d-eeac-4c9e-b36e-d68aa0b9c413">        |
-| $\mid\mid e\mid\mid = 5.2118943754735635e-08$                                                        |
+| <video src="https://github.com/user-attachments/assets/39e1dee8-a36d-431d-b88f-2dbd36975eba">        |
+| $\mid\mid e\mid\mid =3.4529379480364844e-05$                                                         |
 |                                                                                                      |
 | Example                                                                                              |
-| <video src="https://github.com/user-attachments/assets/3a296664-5b6b-4f91-99d3-dae1359fd80c">        |
-| $\mid\mid e\mid\mid = 1.0322904171601065e-04$                                                        |
+| <video src="https://github.com/user-attachments/assets/b2bf69c5-3e39-443d-91b4-630a7a2f1dec">        |
+| $\mid\mid e\mid\mid = 1.463705206772183e-04$                                                         |
 |                                                                                                      |
 
 ## Data :open_file_folder:
